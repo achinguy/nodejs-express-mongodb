@@ -1,0 +1,6 @@
+{
+    "name": "My Development",
+    "mail": {
+        "host" : "production-mail-server"
+    }
+}
