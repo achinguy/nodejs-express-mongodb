@@ -1,0 +1,4 @@
+{
+    "jwtPrivateKey": "angularCLI_jwtPrivateKey",
+    "db": "angularCLI_db"
+}
