@@ -7,4 +7,4 @@ class Log extends EventEmitter {
         this.emit('logMessage', {name: 'achin', place:'delhi'});
     }
 }
-module.exports = Log;
+module.exports = Log; 
